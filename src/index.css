@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*{
+    scroll-behavior: smooth;
+}
+header img,h1,p{
+    transition: .3s;
+}
+/* .services :first-of-type(1)
+{
+    background-color: darkblue;
+    display: flex;
+    flex-direction: row-reverse;
+} */
